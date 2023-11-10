@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Bmi {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("身長を入力してください。例：〇.〇(m)");
